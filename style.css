@@ -1,0 +1,22 @@
+@charest "utf-8";
+
+body{
+  background-color:azure
+}
+
+h1{
+  font-size: 40px;
+}
+
+p{
+  font-size:30px;
+  background-color:aquamarine;
+  padding: 10px 30px;
+}
+
+h2{
+  font-size:20px;
+  background-color:floralwhite;
+  padding:10px;
+  
+}
